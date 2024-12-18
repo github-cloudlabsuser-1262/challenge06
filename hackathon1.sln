@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sysmon", "sysmon\sysmon.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fun001", "Fun001\Fun001.csproj", "{BD7D8503-C1F9-41EE-A99D-AF7C7AF61B83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fun001.Tests", "Fun001.Tests\Fun001.Tests.csproj", "{FE83C553-CE84-4588-AEF8-91FDBB82C3A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{BD7D8503-C1F9-41EE-A99D-AF7C7AF61B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD7D8503-C1F9-41EE-A99D-AF7C7AF61B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD7D8503-C1F9-41EE-A99D-AF7C7AF61B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE83C553-CE84-4588-AEF8-91FDBB82C3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE83C553-CE84-4588-AEF8-91FDBB82C3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE83C553-CE84-4588-AEF8-91FDBB82C3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE83C553-CE84-4588-AEF8-91FDBB82C3A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
